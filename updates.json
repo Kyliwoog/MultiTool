@@ -2,13 +2,25 @@
   "mise_a_jour": [
     {
       "date": "2024-11-24",
+      "description": "Ajout d'une nouvelle fonctionnalité de recherche."
+    },
+    {
+      "date": "2024-11-24",
+      "description": "Amélioration des performances de l'application."
+    },
+    {
+      "date": "2024-11-24",
       "description": "Correction de bugs mineurs."
+    },
+    {
+      "date": "2024-11-30",
+      "description": "Ajout Ratio pour le resize image\r\nAjout du clonage de profil windows"
     }
   ],
   "communication": [
     {
       "date": "2024-11-25",
-      "message": "L'application est en cours de développement."
+      "message": "L'application sera en maintenance le 25/11/2024."
     }
   ]
 }
